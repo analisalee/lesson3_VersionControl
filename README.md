@@ -1,26 +1,24 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name:  Lesson 3 Version Control
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Course Title:
+Web Application Development
 
-To get you started, we included a small hello world application.
+## Assignment Date:  
+September 27, 2018
 
-1) Open the hello-world.html file
+## Student Name:  
+Analisa Lee
 
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
+## Project Description:
+In this assignment I had to set up Github and connect it to my Cloud9 account. I also had to briefly describe 5 concepts I learned in Lesson 3. We primarily talked about Version Control.
 
 
-## Support & Documentation
+## View Project:
+https://analisalee.github.io/lesson3_VersionControl/
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Lessons Learned in the Assignment:
+1. I learned versioning control systems are and what they are used for.
+2. I learned the difference between Local repo and Remote repo.
+3. I learned 3 basic git commands: add, commit, and push.
+
